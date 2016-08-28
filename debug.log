@@ -12,3 +12,4 @@
 [0824/132521:ERROR:process_info.cc(608)] range at 0xfffaf000, size 0xf84 fully unreadable
 [0824/132521:ERROR:process_info.cc(608)] range at 0xfffac000, size 0xf84 fully unreadable
 [0824/132521:ERROR:process_info.cc(608)] range at 0xfffa9000, size 0xf84 fully unreadable
+[0824/221500:ERROR:file_io.cc(41)] write: The pipe is being closed. (0xE8)
